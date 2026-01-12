@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 I'm Jordan Gottlieb, a student at California State University Northridge.
-
 I am passionate about working in baseball analytics, mostly using Python.
+
 ---
 ## Tools & Tech
 * Languages: Python, JavaScript, Java, SQL, HTML/CSS  
