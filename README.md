@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Jordan Gottlieb, a student at California State University Northridge.
+I'm Jordan Gottlieb, a student at California State University Northridge.  
 I am passionate about working in baseball analytics, mostly using Python.
 
 ---
@@ -16,4 +16,4 @@ I am passionate about working in baseball analytics, mostly using Python.
 * 📺 Into anime - Full Metal Alchemist Brotherhood is my favorite
 ---
 ## Reach Me
-* Connect with me on [Jordan Gottlieb]([www.linkedin.com](https://www.linkedin.com/in/jordan-gottlieb-9437613a5/))
+* Connect with me on [LinkedIn](https://www.linkedin.com/in/jordan-gottlieb-9437613a5/)
